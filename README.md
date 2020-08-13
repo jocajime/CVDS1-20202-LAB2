@@ -20,3 +20,6 @@ El repositorio de Maven es una estructura de directorio que contiene complemento
  * https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html#Plugins
  * https://snmb-desarrollo.readthedocs.io/en/develop/howtos/maven-deploy.html#:~:text=Un%20repositorio%20Maven%20es%20una,las%20librer%C3%ADas%20de%20uso%20general.
  
+### Integrantes
++ Joel Carvajal
++ Johan Rueda

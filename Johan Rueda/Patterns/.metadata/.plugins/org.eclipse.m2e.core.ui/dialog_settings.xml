@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\Johan Rueda\Desktop\Johan Rueda\Patterns"/>
+			<item value="C:\Users\Johan Rueda\Desktop\8 semestre\CVDS labs\Lab2\CVDS1-20202-LAB2\Johan Rueda\Patterns"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

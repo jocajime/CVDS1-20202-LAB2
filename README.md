@@ -21,22 +21,34 @@ El repositorio de Maven es una estructura de directorio que contiene complemento
 ![](https://github.com/jocajime/CVDS1-20202-LAB2/blob/master/imagenes/segunda.PNG)
 
 ### Compilar y Ejecutar
-* 'Hello World!':
+* *'Hello World!':*
+
 ![](https://github.com/jocajime/CVDS1-20202-LAB2/blob/master/imagenes/tercera.PNG)
-* 'Hello Pepito!':
+
+* *'Hello Pepito!':*
+
 ![](https://github.com/jocajime/CVDS1-20202-LAB2/blob/master/imagenes/cuarta.PNG)
+
 * Ejecutar la clase con su nombre y apellido como parámetro. ¿Qué sucedió?: solo imprime el nombre, el apellido no lo imprime.
+
 * al realizar la respectiva correccion:
 ![](https://github.com/jocajime/CVDS1-20202-LAB2/blob/master/imagenes/hello-completo.PNG)
 ### Hacer el esqueleto de la aplicacion
 * Ejecute múltiples veces la clase ShapeMain, usando el plugin exec de maven con los siguientes parámetros y verifique la salida en consola para cada una:
-	+ ** Sin parámetros: ** esto genera un error que controlamos ya que el proyecto necesita de estos argumentos para funcionar.
+	+ *Sin parámetros:* esto genera un error que controlamos ya que el proyecto necesita de estos argumentos para funcionar.
+	
 	![](https://github.com/jocajime/CVDS1-20202-LAB2/blob/master/imagenes/sinparametros.PNG)
-	+ ** Parámetro qwerty: ** este no es un parametro valido para el proyecto.
+	
+	+ *Parámetro qwerty:* este no es un parametro valido para el proyecto.
+	
 	![](https://github.com/jocajime/CVDS1-20202-LAB2/blob/master/imagenes/qwerty.PNG)
-	+ ** Parámetro pentagon: ** esto funciona correctamente ya que es un parametro valido para el proyecto.
+	
+	+ *Parámetro pentagon:* esto funciona correctamente ya que es un parametro valido para el proyecto.
+	
 	![](https://github.com/jocajime/CVDS1-20202-LAB2/blob/master/imagenes/pentagon.PNG)
-	+ ** Parámetro Hexagon: ** esto funciona correctamente ya que es un parametro valido para el proyecto.
+	
+	+ *Parámetro Hexagon:* esto funciona correctamente ya que es un parametro valido para el proyecto.
+	
 	![](https://github.com/jocajime/CVDS1-20202-LAB2/blob/master/imagenes/hexagon.PNG)
 
 ## Enlaces - webgrafia
